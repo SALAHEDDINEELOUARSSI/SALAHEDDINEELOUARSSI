@@ -74,7 +74,6 @@ I'm Salaheddine Elouarssi, a passionate engineering student focused on smart sys
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salaheddineelouarssi&show_icons=true&theme=tokyonight&count_private=true" alt="salaheddine's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salaheddineelouarssi&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://komarev.com/ghpvc/?username=salaheddineelouarssi&style=for-the-badge" alt="Profile views" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salaheddineelouarssi&theme=tokyonight" alt="Summary" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salaheddineelouarssi&theme=tokyonight" alt="GitHub Streak" />
 </p>
