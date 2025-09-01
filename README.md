@@ -16,6 +16,7 @@
 ###
 
 <h1 align="center">Hey there 👋, I'm Salaheddine Elouarssi</h1>
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 <h3 align="center">🎓 Student at École Nationale des Sciences Appliquées d’Oujda</h3>
 
